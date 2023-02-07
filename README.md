@@ -1,1 +1,2 @@
 # teszt-python
+# Szia Lahjos!
